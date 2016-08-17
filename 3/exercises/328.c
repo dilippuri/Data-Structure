@@ -9,7 +9,10 @@ int main(void){
   while (student <= 10) {
     printf("Enter result (1=pass,2=fail): ");
     scanf("%d", &result);
-
+    while (result > 2) {
+      printf("Enter result (1=pass,2=fail): ");
+      scanf("%d", &result);
+    }
     if (result == 1) {
       passes++;
     }
