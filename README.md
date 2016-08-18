@@ -1,3 +1,5 @@
+https://www.codetriage.com/dilippuri/data-structure/badges/users.svg
+
 Data Structure
 ===============
 
