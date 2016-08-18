@@ -8,3 +8,9 @@ The basic topic in Data Structure will be following:
 C HOW TO program by P. Deitel and H. Deitel
 -------------------------------------------
 I am going to code each and every example of this book so I will start with the 2nd chaper.
+
+chaper - 2: introduction to C programming
+  complete
+chaper - 3: Structured Program Development in C
+  complete
+chaper - 4: C program control
