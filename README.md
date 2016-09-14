@@ -21,4 +21,8 @@ chaper - 3: Structured Program Development in C
 
 chaper - 4: C program control
 -----------------------------------------
-    -going on
+    -complete
+
+chaper - 4: C program control
+-----------------------------------------
+        -started
