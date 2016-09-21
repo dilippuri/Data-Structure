@@ -23,6 +23,6 @@ chaper - 4: C program control
 -----------------------------------------
     -complete
 
-chaper - 4: C program control
+chaper - 5: C Functions
 -----------------------------------------
         -started
